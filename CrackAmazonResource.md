@@ -31,14 +31,14 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | ------ | ------ | ------ |
 | [Number of Islands](https://leetcode.com/problems/number-of-islands/)  |Done|  |
 | [Partition Labels](https://leetcode.com/problems/partition-labels/) |  |  |
-| [Two Sum](https://leetcode.com/problems/two-sum/) |  |  |
+| [Two Sum](https://leetcode.com/problems/two-sum/) |Done|  |
 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)  |  |  |
-| [LRU Cache](https://leetcode.com/problems/lru-cache/)  |  |  |
+| [LRU Cache](https://leetcode.com/problems/lru-cache/)  |Done|  |
 | [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)  |  |  |
 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) |  |  |
 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)  |  |  |
 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)  |  |  |
-| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  |  |  |
+| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  |Done|  |
 
 
 ---
@@ -66,7 +66,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
-| [Longest Substring Without Repeating Characters]( https://leetcode.com/problems/longest-substring-without-repeating-characters/)  |  |  |
+| [Longest Substring Without Repeating Characters]( https://leetcode.com/problems/longest-substring-without-repeating-characters/)  |Done|  |
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  |  |  |
 | [Merge Intervals]( https://leetcode.com/problems/merge-intervals/)  |  |  |
 | [Analyze User Website Visit Pattern]( https://leetcode.com/problems/analyze-user-website-visit-pattern/)  |  |  |
